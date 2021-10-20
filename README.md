@@ -10,8 +10,10 @@ I am good at:
 * javascript
 * html
 * css
+
 I am ok at:
 * python
+
 I am bad at:
 * c
 * c#
