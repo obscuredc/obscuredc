@@ -1,7 +1,8 @@
 # yo, im obscuredc
 ### projects
-* ivy - a terminal like chrome thing I made because my school disabled inspect feature.
+* ivy (or ivyrootkit) - a terminal like chrome thing I made because my school disabled inspect feature.
 * ivyghostkit - a better terminal
+* atica - a third rewrite. I learned each time and this one is very good. (to see, compare rootkit and atica in different tabs)
 * extensions - some chrome extensions I made.
 * showcase - a website that I created just to test some css stuff.
 ### info
