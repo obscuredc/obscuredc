@@ -1,8 +1,7 @@
 # yo, im obscuredc
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscuredc&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api//?username=obscuredc&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obscuredc&theme=dark" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscuredc&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api//?username=obscuredc&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=obscuredc&repo=atica" />
 ### info
 I am good at:
 * node.js
