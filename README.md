@@ -1,10 +1,11 @@
 # yo, im obscuredc
-![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=#512BD4&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=#512BD4&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=#512BD4&logoColor=white&color=2bbc8a)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscuredc&theme=tokyonight&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api//?username=obscuredc&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=obscuredc&repo=atica" />
+![](https://img.shields.io/static/v1?label=OS&message=Windows10&color=green&style=for-the-badge&logo=windows)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=obscuredc&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api//?username=obscuredc&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/pin/?username=obscuredc&repo=atica&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/pin/?username=obscuredc&repo=showcase&theme=tokyonight)
 
 ### info
 I am good at:
