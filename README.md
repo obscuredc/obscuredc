@@ -12,3 +12,4 @@
 ![](https://github-readme-stats.vercel.app/api//?username=obscuredc&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=obscuredc&repo=atica&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=obscuredc&repo=showcase&theme=tokyonight)
+https://skyline.github.com/obscuredc/2021
