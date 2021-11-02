@@ -1,4 +1,6 @@
 # yo, im obscuredc
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscuredc&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=obscuredc&theme=dark" />
 ### projects
 * ivy (or ivyrootkit) - a terminal like chrome thing I made because my school disabled inspect feature.
 * ivyghostkit - a better terminal
