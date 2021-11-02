@@ -18,4 +18,5 @@ I am ok at:
 I am bad at:
 * c
 * c#
+* rust
 ### reach me on discord: **obscuredc**#0704
